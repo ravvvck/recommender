@@ -17,3 +17,5 @@ Collaborative filtering uses the [Implicit](https://implicit.readthedocs.io/en/l
 }]
 ```
 Ratings are integers between 1-5.
+
+The dataset comes from Goodreads.com and is available at this [link](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home). In this repository you will find a truncated collection of 10000 books with genres and authors reparsed to a csv file. The file interactions_decentreads contains the ratings of various users exclusively for these books .
